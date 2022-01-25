@@ -1,0 +1,2 @@
+# FunctionBasedViews
+ Django has two types of views; function-based views (FBVs), and class-based views (CBVs). ... The classes have documentation on Django's project site that shows what functionality is offered, what settings are required or possible, and how to extend them.
